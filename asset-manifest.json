@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abhi-webpage/static/css/main.929e4879.chunk.css",
-    "main.js": "/abhi-webpage/static/js/main.0004e88c.chunk.js",
-    "main.js.map": "/abhi-webpage/static/js/main.0004e88c.chunk.js.map",
+    "main.js": "/abhi-webpage/static/js/main.f053d2a3.chunk.js",
+    "main.js.map": "/abhi-webpage/static/js/main.f053d2a3.chunk.js.map",
     "runtime-main.js": "/abhi-webpage/static/js/runtime-main.85a1b439.js",
     "runtime-main.js.map": "/abhi-webpage/static/js/runtime-main.85a1b439.js.map",
     "static/js/2.f9b691a3.chunk.js": "/abhi-webpage/static/js/2.f9b691a3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.85a1b439.js",
     "static/js/2.f9b691a3.chunk.js",
     "static/css/main.929e4879.chunk.css",
-    "static/js/main.0004e88c.chunk.js"
+    "static/js/main.f053d2a3.chunk.js"
   ]
 }
